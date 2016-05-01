@@ -1,3 +1,5 @@
+# Total-Average
+
 Hi There!
 
 I'm AJ and I'm a baseball dork.
